@@ -83,7 +83,7 @@ class Student extends User {
     }
 }
 
-// Teacher Class (Inherits from User)
+// Teacher Class (Inherits from User)..
 class Teacher extends User {
     private static final int MAX_BOOKS = 5;
 
