@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# Library Management System
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
