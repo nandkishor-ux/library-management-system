@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# Library Management System
 
 > A console-based Library Management System built in Java, demonstrating core Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA) principles.
 
