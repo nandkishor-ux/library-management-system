@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This system simulates a real-world library management workflow. It allows librarians to manage books, handle member registrations, issue and return books, and track availability — all via a clean, menu-driven console interface built with Java OOP principles.
 
 ---
 
-## ✨ Features
+##  Features
 
 - ➕ **Add / Remove Books** — manage the library catalogue
 - 👤 **Member Registration** — add and manage library members
@@ -25,7 +25,7 @@ This system simulates a real-world library management workflow. It allows librar
 
 ---
 
-## 🧱 OOP Concepts Applied
+##  OOP Concepts Applied
 
 | Concept | Where Used |
 |---|---|
